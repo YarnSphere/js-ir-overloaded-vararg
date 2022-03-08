@@ -1,0 +1,5 @@
+**/build/
+.gradle
+!src/**/build/
+.idea
+yarn.lock
